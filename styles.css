@@ -1,11 +1,13 @@
+/* css stars animation */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
-  font-family: 'Arial', sans-serif;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
   display: flex;
@@ -119,7 +121,7 @@ h1 {
   transform: translateY(0);
 }
 
-/* Zodiac sign specific styling */
+/* Zodiac sign specific styling!! */
 .aries { border-left-color: #ff6b6b; }
 .taurus { border-left-color: #4ecdc4; }
 .gemini { border-left-color: #45b7d1; }
