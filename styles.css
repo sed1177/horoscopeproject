@@ -1,4 +1,5 @@
 /* css stars animation */
+/*https://developer.mozilla.org/en-US/docs/Web/CSS/::before  */
 
 * {
   margin: 0;
@@ -155,6 +156,7 @@ h1 {
     font-size: 1.1rem;
   }
 }
+
 
 /* Stars animation background */
 body::before {
